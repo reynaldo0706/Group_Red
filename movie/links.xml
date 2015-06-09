@@ -1,0 +1,38 @@
+<pages>
+	<link>
+		<title>Login</title>
+		<url>http://localhost/movie/Newlogin.php</url>
+   </link>
+   <link>
+		<title>About us</title>
+		<url>http://localhost/movie/about-us.php</url>
+   </link>
+   <link>
+		<title>Register</title>
+		<url>http://localhost/movie/NewRegister.php</url>
+   </link>
+   <link>
+		<title>Contact</title>
+		<url>http://localhost/movie/contact.php</url>
+   </link>
+   <link>
+		<title>Films</title>
+		<url>http://localhost/movie/movies/films.php</url>
+   </link>
+   <link>
+		<title>Trailers</title>
+		<url>http://localhost/movie/movies/trailers.php</url>
+   </link>
+   <link>
+		<title>Reviews</title>
+		<url>http://localhost/movie/reviews.php</url>
+   </link>
+   <link>
+		<title>Reviews</title>
+		<url>http://localhost/movie/reviews.php</url>
+   </link>
+   <link>
+		<title>Discussion</title>
+		<url>http://localhost/movie/discussions.php</url>
+   </link>   
+</pages>   
